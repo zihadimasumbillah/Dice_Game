@@ -17,7 +17,7 @@ export class GameController {
     }
 
     private displayRules(): void {
-        console.log('\n╔════════════════════════════╗');
+      console.log('\n╔════════════════════════════╗');
         console.log('║  Non-transitive Dice Game  ║');
         console.log('╠════════════════════════════╣');
         console.log('║ 1. Select your dice        ║');
